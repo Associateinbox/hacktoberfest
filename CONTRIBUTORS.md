@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Uday kaushik](https://github.com/Associateinbox)
+- Place: Delhi, India
+- Bio: Web developer, student
+- Github: [Associateinbox] (https://github.com/Associateinbox
